@@ -2,7 +2,7 @@
 
 Embedded systems engineer focused on firmware, hardware interfaces, low-power devices, and audio-enabled embedded platforms.
 
-专注于嵌入式软硬件协同开发，主要研究 STM32 / ESP32 固件、低功耗控制、LED / LCD 设备、BLE / USB / Wi-Fi 通信、音频可视化和 FPGA 音频系统。
+主要研究 STM32 / ESP32 固件、低功耗控制、LED / LCD 设备、BLE / USB / Wi-Fi 通信、音频可视化和 FPGA 音频系统。
 
 ## Research and Engineering Focus
 
